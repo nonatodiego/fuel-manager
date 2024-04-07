@@ -7,10 +7,10 @@ Este é um aplicativo desenvolvido em C# que permite ao usuário acompanhar o co
 - Registro de abastecimentos: Os usuários podem registrar os abastecimentos realizados em seus veículos, incluindo a quantidade de combustível, o preço por litro, a data e o odômetro do veículo.
 - Cálculo de consumo: Com base nos registros de abastecimento, o aplicativo calcula o consumo médio de combustível do veículo.
 ### Tecnologias Utilizadas :wrench:
-C#: Linguagem de programação utilizada para o desenvolvimento do aplicativo.
-SQL Server: Banco de dados relacional utilizado para armazenar os dados dos veículos e registros de abastecimento.
-Entity Framework: Framework ORM utilizado para mapear objetos do aplicativo para o banco de dados.
-Swagger: Ferramenta utilizada para documentar e testar a API do aplicativo.
+- C#: Linguagem de programação utilizada para o desenvolvimento do aplicativo.
+- SQL Server: Banco de dados relacional utilizado para armazenar os dados dos veículos e registros de abastecimento.
+- Entity Framework: Framework ORM utilizado para mapear objetos do aplicativo para o banco de dados.
+- Swagger: Ferramenta utilizada para documentar e testar a API do aplicativo.
 ### Requisitos :pencil:
 - Visual Studio (ou qualquer outra IDE compatível com C#)
 - SQL Server Management Studio (ou outro cliente SQL Server)
